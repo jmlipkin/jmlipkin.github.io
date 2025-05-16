@@ -1,0 +1,12 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+}
+h1 {
+    text-align: center;
+}
+
+object {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
